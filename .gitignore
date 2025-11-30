@@ -1,18 +1,115 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# =========================
+#   OS / SYSTEM FILES
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
 
-# Other files and folders
-.settings/
+# =========================
+#   LOGS & TEMP FILES
+# =========================
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# =========================
+#   ENVIRONMENT FILES
+# =========================
+.env
+.env.local
+.env.development
+.env.production
+.env.test
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Python environment
+venv/
+.env/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+#   NODE / REACT (Frontend)
+# =========================
+node_modules/
+dist/
+build/
+.cache/
+.npm/
+.yarn/
+.pnp/
+.pnp.js
+
+# React-specific
+*.cache
+*.eslintcache
+
+# =========================
+#   FLUTTER / DART (Mobile)
+# =========================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+generated_plugin_registrant.dart
+
+# Android
+**/android/.gradle/
+**/android/app/build/
+**/android/local.properties
+**/android/.idea/
+
+# iOS
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/DerivedData/
+**/ios/Flutter/App.framework
+**/ios/.generated/
+**/ios/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+
+# =========================
+#   FLASK / PYTHON BACKEND
+# =========================
+instance/
+*.sqlite3
+*.db
+
+# Pip
+pip-wheel-metadata/
+pip-delete-this-directory.txt
+
+# =========================
+#   EDITOR / IDE FOLDERS
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# =========================
+#   OTHER
+# =========================
+# Figma backups
+*.fig.bak
+
+# Temporary uploaded files
+temp/
+uploads/
+
+# Ignore compiled files
+*.o
+*.so
+*.a
+
+# Ignore compressed outputs
+*.zip
+*.tar
+*.tar.gz
+*.rar
