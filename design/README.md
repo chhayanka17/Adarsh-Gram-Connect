@@ -8,7 +8,7 @@ This folder contains the UI/UX design assets for the **Adarsh Gram Connect** pro
 - User flow and layout planning
 
 ## Prototype
-🔗 Figma Prototype Link: https://figma.com/proto/YOUR_LINK
+🔗 Figma Prototype Link: https://www.figma.com/make/gXjQQjr4yl6TUlfVZZqLda/Government-App-Prototype?t=URLdDAnBFBo56C16-1
 
 ## Tools Used
 - Figma
