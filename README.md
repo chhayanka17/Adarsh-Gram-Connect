@@ -1,19 +1,25 @@
-Adarsh Gram Connect is a geo-intelligent platform designed to identify
-infrastructure, amenities, and service gaps in SC-majority villages for
-Adarsh Gram declaration. Built as part of Smart India Hackathon 2025,
-this project focuses on enabling data-driven rural development through
-GIS mapping, offline-first data collection, and transparent dashboards.
+# 🌾 Aadarsh Gram Connect — Rural Analytics
 
-This repository includes:
-- Figma prototype (UI/UX design)
-- Project documentation
-- Folder structure for planned development
-- Official SIH Idea Submission PDF
+> A conceptual data-driven solution to detect and monitor infrastructure gaps in rural areas using dashboards and structured data analysis.
 
-📄 The full SIH 2025 submission (included in /docs/) explains:
-- Gap Identification System
-- Real-time village data workflows
-- GIS-based infrastructure visualization
-- AI/ML gap prioritization (scikit-learn)
-- Proposed tech stack: React, Flutter, Flask, PostgreSQL + PostGIS
-- Implementation feasibility, challenges & benefits
+## 💡 About the Project
+Rural infrastructure in India often lacks proper monitoring. This project proposes a smart system using data collection, GIS mapping, and dashboards to help identify and track development gaps at the village level.
+
+## ✨ Features
+- Dashboard-based infrastructure gap monitoring
+- GIS map integration concept
+- Structured data collection workflows
+- Public-sector planning support
+
+## 🛠️ Built With
+- HTML5, CSS3
+- Data analysis concepts
+- Machine Learning fundamentals
+
+## 🎯 Use Case
+Targeted at government bodies and NGOs working on rural development planning in India.
+
+## 📬 Contact
+**Chhayanka Dabhadker**
+- Email: chhayankadabhadker17@gmail.com
+- LinkedIn: [linkedin.com/in/chhayankadabhadker-b86ab331a](https://linkedin.com/in/chhayankadabhadker-b86ab331a)
